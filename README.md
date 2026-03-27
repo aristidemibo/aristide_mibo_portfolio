@@ -1,7 +1,18 @@
 # aristide_mibo_portfolio
-portfolio Data scientiste et description d'Aristide Mibo et ses réalisations   
-# 👋 Salut, moi c'est Aristide Mibo !
-### 🚀 Futur Data Scientist | Passionné par l'Analyse de Données & l'IA
+portfolio Data scientiste et description d'Aristide Mibo et ses réalisations
+# 👋 Salut, moi c'est Aristide mibo !
+<table>
+  <tr>
+    <td width="150px">
+      <img src="https://github.com/aristidemibo/aristide_mibo_portfolio/blob/main/img/amk.jpg" width="120px" style="border-radius: 50%;" alt="Mon Logo/Photo"/>
+    </td>
+    <td>
+      <h3>🚀 Futur Data Scientist | Passionné par l'Analyse de Données & l'IA</h3>
+      <p>Actuellement en formation **IBM Data Science**, je transforme des données brutes en insights concrets.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 ## 🧐 À propos de moi
 Je suis actuellement en pleine reconversion/formation pour devenir **Data Scientist**. Mon objectif est d'utiliser la donnée pour résoudre des problèmes concrets, particulièrement dans les domaines de la **Santé** et du **Sport**.
