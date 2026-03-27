@@ -23,7 +23,7 @@ Je suis actuellement en pleine reconversion/formation pour devenir **Data Scient
 | [🏀 Stats NBA](Lien-vers-votre-projet) | Analyse de performance des joueurs. | Pandas, Seaborn |
 ---
 ## 📊 Mes Statistiques GitHub
-![Stats de [VotreNom]](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_ICI&show_icons=true&theme=radical)
+![Stats de [Aristide Mibo](https://github-readme-stats.vercel.app/api?username=aristidemiboICI&show_icons=true&theme=radical)
 ---
 ## 📫 Me contacter
 - 💼 **LinkedIn :** https://www.linkedin.com/in/aristide-mibo
