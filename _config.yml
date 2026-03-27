@@ -1,5 +1,5 @@
 title: "aristide_mibo_portfolio"
-logo: "https://raw.githubusercontent.com/aristidemibo/aristide_mibo_portfolio/main/img/amk.jpg" width="120px" style="border-radius: 50%;" alt="Mon Logo/Photo"
+logo: "img/amk.jpg"
 description: "portfolio aristide mibo data scientist, formation"
 show_downloads: true
 theme: jekyll-theme-modernist
