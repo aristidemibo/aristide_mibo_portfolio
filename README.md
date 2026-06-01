@@ -30,7 +30,7 @@ Je suis actuellement en pleine reconversion/formation pour devenir **Data Scient
 ## 🏆 Mes Projets Phares
 | Projet | Description | Techno utilisée |
 | :--- | :--- | :--- |
-| [🎗️ Cancer du Sein](Lien-vers-votre-projet) | Classification de tumeurs (Maligne/Bénigne). | Python, Scikit-Learn |
+| [🎗️ Cancer du Sein](https://github.com/aristidemibo/cancer_project_prediction) | Classification de tumeurs (Maligne/Bénigne). | Python, Scikit-Learn |
 | [🏀 Stats NBA](Lien-vers-votre-projet) | Analyse de performance des joueurs. | Pandas, Seaborn |
 ---
 ## 📊 Mes Statistiques GitHub
